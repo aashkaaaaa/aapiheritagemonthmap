@@ -24,7 +24,7 @@ pip install folium geopy
 3. Downtown Cincinnati is highlighted with a circle to differentiate between locations inside and outside of it.
 4. Each location is added to the map with a marker. Locations inside the downtown area are marked in green, while those outside are marked in blue.
 
-[View the Interactive Map](file:///C:/Users/aashr/Downloads/index.html)
+[View the Interactive Map](https://aashkaaaaa.github.io/aapiheritagemonthmap/)
 
 
 ### Analysis
